@@ -8,8 +8,6 @@
     "url": "https://webtorrent.io"
   },
   "browser": {
-    "./lib/server.js": false,
-    "./lib/tcp-pool.js": false,
     "bittorrent-dht/client": false,
     "fs-chunk-store": "memory-chunk-store",
     "load-ip-set": false,
